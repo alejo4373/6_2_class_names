@@ -1,0 +1,1 @@
+let person = {"firstName": "Chuck", "lastName": "Okonkwo-Aguolu", "dateOfBirth": "02/24/1994": "bio": "I am Chuck, and Chuck is me"}; 
