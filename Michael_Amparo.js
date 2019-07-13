@@ -1,6 +1,6 @@
 let person = {
   firstName: `Michael`,
   lastName: `Amparo`,
-  dateOfBirth: `09/23/1995`,
-  biography: `Aspiring software developer`,
+  dob: `09/23/1995`,
+  bio: `Aspiring software developer`,
 };
